@@ -25,10 +25,10 @@ public class Calculatar {
         System.out.println(" 5 plus 7 equals " + add(5, 7));
         System.out.println("1 plus 2 equals " + add(1, 2));
         System.out.println("9 minus 3 equals " + subtract(9, 3));
-        System.out.println("9 plus 4 equals " + subtract(9, 4));
+        System.out.println("9 minus 4 equals " + subtract(9, 4));
         System.out.println("3 times 3 equals " + multiply(3, 3));
         System.out.println("2 times 4 equals " + multiply(2, 4));
-        System.out.println("6 divide  3 equals s" + divide(6, 3));
+        System.out.println("6 divide  3 equals " + divide(6, 3));
 
     }
 
